@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AuctionModule</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="error_not_found">Error: Not Found</string>
+    <string name="error_something_went_wrong">Something went wrong</string>
+</resources>
